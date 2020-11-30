@@ -23,5 +23,5 @@ permalink: /about/
 <p>  
 <div class="manual-content">
 <p>Please don't.</p>
-
+</div>
 </div>
