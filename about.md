@@ -11,7 +11,7 @@ permalink: /about/
   <div class="manual manual-title">
   <strong>Meet the Team!</strong>
   </div>
-<p>  
+<br>  
 
 <div class="manual-content">
 <p>Maybe I am the CEO, but who knows. My GP says I have serious imposter syndrome. </p>
@@ -20,7 +20,7 @@ permalink: /about/
 <div class="manual manual-title">
   <strong>Contact Us</strong>
   </div>
-<p>  
+<br>  
 <div class="manual-content">
 <p>Please don't.</p>
 </div>
