@@ -7,5 +7,5 @@ author: "Yichen"
 ---
 
 <div class="manual-content">
-<p> Check out </p> <a href="https://dev.infinite-draft.com" target="__blank"> Infinite Draft! </a>
+<p> Check out </p> <a href="https://dev.infinite-draft.co.uk" target="__blank"> Infinite Draft! </a>
 </div>
